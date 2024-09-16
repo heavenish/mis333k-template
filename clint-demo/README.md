@@ -1,7 +1,7 @@
 **Quick Setup**
 
 **Clone the repo**:
-git clone repo_url
+git clone repo_clone_url
 
 **Start the backend**: 
 Navigate to the backend folder and run:
